@@ -8,7 +8,7 @@ const Header = () => {
             </h1>
 
             <p className="description">
-                a full stack web developer.
+                a web developer.
             </p>
         </>
     )

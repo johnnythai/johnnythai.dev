@@ -17,7 +17,7 @@ const AboutMe = () => {
             <a href="https://www.linkedin.com/in/johnny-thai-797409171/" className="aboutme-description text-sky-800 hover:text-sky-600">
                 <h3>LinkedIn</h3>
             </a>
-            <p>Developer experienced with ReactJS, Django REST Framework, Nginx, TailwindCSS, SASS.</p>
+            <p>Experienced with ReactJS, Django REST Framework, Nginx, TailwindCSS, SASS.</p>
         </div>
     )
 }
