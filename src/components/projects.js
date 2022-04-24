@@ -5,7 +5,7 @@ const Project1 = () => {
         <>
             <a href="https://johnnythai.dev/project08" className="project card basis-80 border my-4">
                 <h3 className="text-lg mb-3">Alpaca Web Application</h3>
-                <p className="leading-6">Stream market data. Stream market data. Stream market data. Stream market data.</p>
+                <p className="leading-6">Stream market data.</p>
             </a>
         </>
     )
