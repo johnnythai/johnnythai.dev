@@ -1,5 +1,16 @@
 import React from 'react';
 
+const Project2 = () => {
+    return(
+        <>
+            <a href="https://fis.johnnythai.dev" className="project card basis-80 border my-4">
+                <h3 className="text-lg mb-3">Sandbox Application for FIS Horizon API</h3>
+                <p className="leading-6">ReactJS. Express. NodeJS.</p>
+            </a>
+        </>
+    )
+}
+
 const Project1 = () => {
     return(
         <>
