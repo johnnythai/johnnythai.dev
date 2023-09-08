@@ -36,6 +36,7 @@ const Projects = () => {
             <ProjectsHeader />
             <div className="cards grid-cols-2 flex flex-wrap align-center justify-left w-10/12">
                 <Project1 />
+		<Project2 />
             </div>
         </div>
     )
