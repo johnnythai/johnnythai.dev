@@ -8,7 +8,7 @@ RUN npm run build
 
 
 # RUN
-FROM node:20 as build
+FROM node:20
 WORKDIR /app
 COPY --from=build /app/build /app/build
 RUN npm install -g serve

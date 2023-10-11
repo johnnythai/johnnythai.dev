@@ -1,0 +1,6 @@
+version: "2.2"
+services:
+  johnnythai.dev:
+    image: johnnythai04/johnnythai.dev
+    ports:
+      - "3000:3000"
