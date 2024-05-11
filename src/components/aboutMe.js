@@ -17,7 +17,10 @@ const AboutMe = () => {
             <a href="https://www.linkedin.com/in/johnny-thai-797409171/" className="aboutme-description text-sky-800 hover:text-sky-600">
                 <h3>LinkedIn</h3>
             </a>
-            <p>Experienced with ReactJS, Django REST Framework, Nginx, TailwindCSS, SASS.</p>
+            <p>
+	    	Experienced banking professional with a background in retail banking and bank operations. 
+	    	Passion for technology and software, with a keen interest in leveraging these skills to drive development and innovation.
+	    </p>
         </div>
     )
 }
