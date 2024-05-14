@@ -4,3 +4,13 @@ services:
     image: johnnythai04/johnnythai.dev
     ports:
       - "3000:3000"
+  fis-express:
+    image: johnnythai04/fis-express
+    ports: 
+      - "4001:4001"
+    env_file:
+      - .env
+  fis-webapp:
+    image: johnnythai04/fis-webapp:prod
+    ports:
+      - "3001:3001"
